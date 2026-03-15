@@ -55,7 +55,7 @@ Vercel will automatically use:
 
 ## Featured Projects
 
-- InternSphere: [https://intern-spherex.vercel.app](https://intern-spherex.vercel.app)
+- InternSphere: [https://intern-spherec.vercel.app](https://intern-spherec.vercel.app)
 - Automated-Data-Verrification: [https://automated-data-verrification.onrender.com](https://automated-data-verrification.onrender.com)
 - ResuMate: [https://resume-analyzer-mdvh.onrender.com](https://resume-analyzer-mdvh.onrender.com)
 - CSVTU Academic Portal: [https://csvtu.site](https://csvtu.site)

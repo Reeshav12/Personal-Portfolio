@@ -20,7 +20,7 @@ const projects = [
     description:
       "Built a resume parsing pipeline using PyPDF2, Tesseract OCR, and spaCy to extract structured data from 100+ resume formats. Implemented NLP-based matching algorithms — TF-IDF, spaCy similarity, Word2Vec — to compare resume profiles with 500+ job descriptions, improving recommendation accuracy by 35%.",
     tags: ["Python", "NLP", "TF-IDF", "Word2Vec", "spaCy", "PyPDF2", "OCR"],
-    link: "https://intern-spherex.vercel.app",
+    link: "https://intern-spherec.vercel.app",
     year: "2024–2025",
     featured: true,
     live: true,
