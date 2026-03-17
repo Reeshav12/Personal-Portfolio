@@ -6,21 +6,11 @@ import Link from "next/link"
 
 const projects = [
   {
-    title: "Automated-Data-Verrification",
-    description:
-      "Built a Python-based automation pipeline for document verification, reducing manual verification effort by 80% across 1,000+ document records. Integrated ML, OCR (Tesseract), and NLP (spaCy) to extract and validate structured data fields with 95%+ accuracy.",
-    tags: ["Python", "Machine Learning", "NLP", "OCR", "spaCy", "Tesseract"],
-    link: "https://automated-data-verrification.onrender.com",
-    year: "2024–2025",
-    featured: true,
-    live: true,
-  },
-  {
     title: "InternSphere – AI-Based Internship Recommendation Engine",
     description:
       "Built a resume parsing pipeline using PyPDF2, Tesseract OCR, and spaCy to extract structured data from 100+ resume formats. Implemented NLP-based matching algorithms — TF-IDF, spaCy similarity, Word2Vec — to compare resume profiles with 500+ job descriptions, improving recommendation accuracy by 35%.",
     tags: ["Python", "NLP", "TF-IDF", "Word2Vec", "spaCy", "PyPDF2", "OCR"],
-    link: "https://resume-analyzer-lovat-eight.vercel.app",
+    link: "https://intern-spherec.vercel.app/",
     year: "2024–2025",
     featured: true,
     live: true,
@@ -30,7 +20,7 @@ const projects = [
     description:
       "A Streamlit-based resume analyzer that helps applicants compare resumes against job roles and helps recruiters review candidate data. It includes applicant and recruiter demo flows, PDF resume parsing, semantic and keyword-based matching, skill-gap recommendations, and a recruiter dashboard with CSV export.",
     tags: ["Streamlit", "Python", "PDF Parsing", "NLP", "Semantic Matching", "CSV"],
-    link: "https://resume-analyzer-mdvh.onrender.com",
+    link: "https://resume-analyzer-lovat-eight.vercel.app",
     year: "2024–2025",
     featured: true,
     live: true,
@@ -42,6 +32,16 @@ const projects = [
     tags: ["Web Development", "HTML5", "CSS3", "JavaScript", "UI/UX Design"],
     link: "https://csvtu.site",
     year: "2023",
+    featured: true,
+    live: true,
+  },
+  {
+    title: "Automated-Data-Verrification",
+    description:
+      "Built a Python-based automation pipeline for document verification, reducing manual verification effort by 80% across 1,000+ document records. Integrated ML, OCR (Tesseract), and NLP (spaCy) to extract and validate structured data fields with 95%+ accuracy.",
+    tags: ["Python", "Machine Learning", "NLP", "OCR", "spaCy", "Tesseract"],
+    link: "https://automated-data-verrification.onrender.com",
+    year: "2024–2025",
     featured: true,
     live: true,
   },
