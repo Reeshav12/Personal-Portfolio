@@ -40,7 +40,7 @@ const projects = [
     description:
       "Built a Python-based automation pipeline for document verification, reducing manual verification effort by 80% across 1,000+ document records. Integrated ML, OCR (Tesseract), and NLP (spaCy) to extract and validate structured data fields with 95%+ accuracy.",
     tags: ["Python", "Machine Learning", "NLP", "OCR", "spaCy", "Tesseract"],
-    link: "https://automated-data-verrification.onrender.com",
+    link: "https://automated-data-verrification-1.onrender.com",
     year: "2024–2025",
     featured: true,
     live: true,
