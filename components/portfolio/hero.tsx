@@ -73,7 +73,7 @@ export function Hero() {
           transition={{ duration: 0.6, delay: 0.3 }}
           className="text-muted-foreground text-lg max-w-2xl leading-relaxed mb-8"
         >
-          Computer Science undergraduate with hands-on experience in backend development, 
+          Computer Science with specialization in Data Science undergraduate with hands-on experience in backend development, 
           machine learning, NLP, OCR, and data-driven automation. Passionate about building 
           intelligent, scalable applications that solve real-world problems.
         </motion.p>
